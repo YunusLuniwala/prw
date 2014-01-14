@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="WidgetText">
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:padding">@dimen/module_b_4</item>
+  </style>
+  <style name="WidgetMainText" parent="WidgetText">
+    <item name="android:textSize">@dimen/text_size_medium</item>
+  </style>
+  <style name="WidgetSecondaryText" parent="WidgetText">
+    <item name="android:textSize">@dimen/text_size_small</item>
+  </style>
+
+</resources>
